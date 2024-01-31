@@ -1,6 +1,4 @@
-Get your session id
-Tim edited this page on Nov 24, 2023 · 7 revisions
-How to get your session id from your browser's cookies:
+<h1>Get your session id:<h1>
 
 Open scratch.mit.edu in your browser
 Open the developer tools by pressing fn+F12 or F12.
