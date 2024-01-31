@@ -5,7 +5,7 @@ Open the developer tools by pressing fn+F12 or F12.
 Go to the "Application" tab, then go to "Cookies" > "https://scratch.mit.edu"
 Then find a cookie named scratchsessionid. The value of this cookie is your Scratch session id
 
-⚠ MAKE SURE YOU COPY THE WHOLE ID BY CLICKING ON THE COOKIE AND SELECTING THE WHOLE VALUE ⚠
+<b>⚠ MAKE SURE YOU COPY THE WHOLE ID BY CLICKING ON THE COOKIE AND SELECTING THE WHOLE VALUE ⚠<b>
 
 ![cookies_tut_2](https://raw.githubusercontent.com/TimMcCool/scratchattach/main/wiki/images/cookies_tut_1.png)
 
