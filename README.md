@@ -1,4 +1,4 @@
-<b>Get your session id:<b>
+Get your session id:
 
 Open scratch.mit.edu in your browser
 Open the developer tools by pressing fn+F12 or F12.
