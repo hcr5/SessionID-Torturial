@@ -1,6 +1,6 @@
 <h1>Get your session id:<h1>
 
-Open scratch.mit.edu in your browser
+</small>Open scratch.mit.edu in your browser</small>
 Open the developer tools by pressing fn+F12 or F12.
 Go to the "Application" tab, then go to "Cookies" > "https://scratch.mit.edu"
 Then find a cookie named scratchsessionid. The value of this cookie is your Scratch session id
